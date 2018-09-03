@@ -1,0 +1,19 @@
+#rules starts here
+ATL2,String,!=,high
+ATL9,Datetime,>,now
+ALT4,Integer,>,4
+ATL9,Datetime,<,2017-06-13 06:22:35
+ATL6,Integer,>,10
+#rules ends here
+#
+#
+#
+#
+#
+#
+# now  for current time
+# date format accepted "2017-05-13 06:22:35"
+# < for smaller
+# > for greater
+# != not equal to
+# '#' in start of line to comment a rule
